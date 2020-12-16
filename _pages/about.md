@@ -10,4 +10,6 @@ redirect_from:
 
 I am a first year Ph.D. student at Rochester Institute of Technology. I am interested in the search for continuous gravitational waves, especially from LMXB Scorpius X-1. I currently work with Dr. John Whelan.
 
+Befor joining the AST program at RIT, I received my B.S. in Physics from Roberts Wesleyan College. I supplemented my program with extra courses in astronomy and mathematics from both RIT and the University of Rochester. I was an undergraduate research assistant to Dr. Alice Quillen (UR), studying the properties of viscoelastic rotators, and Dr. John Whelan (RIT), exploring lattice template placement.
 
+Additionally, at RWC I was a member of the Division II women's varsity soccer team and played the violin in the community orchestra. Now in my free time, I enjoy running, garment sewing and quilting, and spending time with my husband and our two cats.

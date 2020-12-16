@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kate Wagner"
   avatar           : "profile.png"
-  bio              : "Astrophysics PhD"
+  bio              : "Astrophysics Ph.D."
   location         : "Rochester, NY"
-  employer         :
+  employer         : "Rochester Institute of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :

@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/kjtwagner/cv/blob/main/cv.pdf
     
   - title: "Guide"
     url: /markdown/
