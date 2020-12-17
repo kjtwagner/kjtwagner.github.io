@@ -10,7 +10,8 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: https://github.com/kjtwagner/cv/blob/main/cv.pdf
+    url: /files/cv.pdf 
+
     
   - title: "Guide"
     url: /markdown/
