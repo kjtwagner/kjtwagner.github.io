@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kate J. Wagner"
+title                    : "Kate Wagner"
 title_separator          : "-"
 name                     : &name "Kate Wagner"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "Rochester Institute of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kjw4822@rit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
