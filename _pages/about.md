@@ -14,20 +14,3 @@ Before joining the [AST program](https://www.rit.edu/science/school-physics-and-
 
 Additionally, at RWC I was a member of the Division II women's varsity soccer team and played the violin in the community orchestra. Now in my free time, I enjoy running, garment sewing and quilting, and spending time with my husband and our two cats.
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
-
-<img src='/images/kitties.jpg' width="300" height="40" class="center">
-
-</body>
-</html>
