@@ -2132,6 +2132,15 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+		.image.scale {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 75%;
+		}
+
+			.image.scale img {
+				width: 75%;
+			}
 
 /* List */
 
